@@ -1,0 +1,7 @@
+.header {
+  text-align: center;
+}
+.ScrollSmooth{
+  scroll-behavior: smooth;
+  text-align: -webkit-center !important;
+}

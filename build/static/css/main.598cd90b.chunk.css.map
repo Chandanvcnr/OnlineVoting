@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,iBACF,CACA,cACE,sBACF","file":"main.598cd90b.chunk.css","sourcesContent":[".header {\n  text-align: center;\n}\n.ScrollSmooth{\n  scroll-behavior: smooth;\n}\n"]}
